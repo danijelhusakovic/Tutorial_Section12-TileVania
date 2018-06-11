@@ -67,3 +67,4 @@ C:\Users\Will\Documents\repos\11. TileVania\Temp\bin\Debug\UnityEditor.VR.xml
 C:\Users\Will\Documents\repos\11. TileVania\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
 C:\Users\Will\Documents\repos\11. TileVania\obj\Debug\Assembly-CSharp-Editor-firstpass.dll
 C:\Users\Will\Documents\repos\11. TileVania\obj\Debug\Assembly-CSharp-Editor-firstpass.pdb
+C:\Users\Will\Documents\repos\11. TileVania\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache
